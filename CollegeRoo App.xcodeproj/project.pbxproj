@@ -7,6 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD4ED5F22A8E577A006DD8B2 /* view 5.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4ED5F12A8E577A006DD8B2 /* view 5.swift */; };
+		BD4ED5F42A8E57B5006DD8B2 /* viewfive.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4ED5F32A8E57B5006DD8B2 /* viewfive.swift */; };
+		BD4ED5F62A8E5BCF006DD8B2 /* intwish.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4ED5F52A8E5BCF006DD8B2 /* intwish.swift */; };
+		BD4ED5F82A8E5DB6006DD8B2 /* intOpps.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD4ED5F72A8E5DB6006DD8B2 /* intOpps.swift */; };
 		BD6842FC2A8D0EEF004E8410 /* CollegeRoo_AppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6842FB2A8D0EEF004E8410 /* CollegeRoo_AppApp.swift */; };
 		BD6842FE2A8D0EEF004E8410 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6842FD2A8D0EEF004E8410 /* ContentView.swift */; };
 		BD6843002A8D0EF0004E8410 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD6842FF2A8D0EF0004E8410 /* Assets.xcassets */; };
@@ -14,6 +18,12 @@
 		BD68430D2A8D0EF0004E8410 /* CollegeRoo_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD68430C2A8D0EF0004E8410 /* CollegeRoo_AppTests.swift */; };
 		BD6843172A8D0EF0004E8410 /* CollegeRoo_AppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6843162A8D0EF0004E8410 /* CollegeRoo_AppUITests.swift */; };
 		BD6843192A8D0EF0004E8410 /* CollegeRoo_AppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6843182A8D0EF0004E8410 /* CollegeRoo_AppUITestsLaunchTests.swift */; };
+		BD6843262A8D18C1004E8410 /* viewtwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6843252A8D18C1004E8410 /* viewtwo.swift */; };
+		BD6DB4282A8D31AB00687728 /* viewthree.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6DB4272A8D31AB00687728 /* viewthree.swift */; };
+		BD6DB42A2A8D38BD00687728 /* viewfour.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6DB4292A8D38BD00687728 /* viewfour.swift */; };
+		BDF780AD2A8E5EC8006E8D06 /* colwish.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF780AC2A8E5EC8006E8D06 /* colwish.swift */; };
+		BDF780AF2A8E5F3B006E8D06 /* colOpps.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF780AE2A8E5F3B006E8D06 /* colOpps.swift */; };
+		BDF780B12A8E5F65006E8D06 /* reminders.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDF780B02A8E5F65006E8D06 /* reminders.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +44,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BD4ED5F12A8E577A006DD8B2 /* view 5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "view 5.swift"; sourceTree = "<group>"; };
+		BD4ED5F32A8E57B5006DD8B2 /* viewfive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewfive.swift; sourceTree = "<group>"; };
+		BD4ED5F52A8E5BCF006DD8B2 /* intwish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intwish.swift; sourceTree = "<group>"; };
+		BD4ED5F72A8E5DB6006DD8B2 /* intOpps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = intOpps.swift; sourceTree = "<group>"; };
 		BD6842F82A8D0EEE004E8410 /* CollegeRoo App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "CollegeRoo App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD6842FB2A8D0EEF004E8410 /* CollegeRoo_AppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollegeRoo_AppApp.swift; sourceTree = "<group>"; };
 		BD6842FD2A8D0EEF004E8410 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +58,12 @@
 		BD6843122A8D0EF0004E8410 /* CollegeRoo AppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "CollegeRoo AppUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD6843162A8D0EF0004E8410 /* CollegeRoo_AppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollegeRoo_AppUITests.swift; sourceTree = "<group>"; };
 		BD6843182A8D0EF0004E8410 /* CollegeRoo_AppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollegeRoo_AppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BD6843252A8D18C1004E8410 /* viewtwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewtwo.swift; sourceTree = "<group>"; };
+		BD6DB4272A8D31AB00687728 /* viewthree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewthree.swift; sourceTree = "<group>"; };
+		BD6DB4292A8D38BD00687728 /* viewfour.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = viewfour.swift; sourceTree = "<group>"; };
+		BDF780AC2A8E5EC8006E8D06 /* colwish.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colwish.swift; sourceTree = "<group>"; };
+		BDF780AE2A8E5F3B006E8D06 /* colOpps.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = colOpps.swift; sourceTree = "<group>"; };
+		BDF780B02A8E5F65006E8D06 /* reminders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = reminders.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +116,16 @@
 			children = (
 				BD6842FB2A8D0EEF004E8410 /* CollegeRoo_AppApp.swift */,
 				BD6842FD2A8D0EEF004E8410 /* ContentView.swift */,
+				BD6843252A8D18C1004E8410 /* viewtwo.swift */,
+				BD6DB4292A8D38BD00687728 /* viewfour.swift */,
+				BD4ED5F32A8E57B5006DD8B2 /* viewfive.swift */,
+				BDF780B02A8E5F65006E8D06 /* reminders.swift */,
+				BDF780AC2A8E5EC8006E8D06 /* colwish.swift */,
+				BDF780AE2A8E5F3B006E8D06 /* colOpps.swift */,
+				BD4ED5F52A8E5BCF006DD8B2 /* intwish.swift */,
+				BD4ED5F72A8E5DB6006DD8B2 /* intOpps.swift */,
+				BD4ED5F12A8E577A006DD8B2 /* view 5.swift */,
+				BD6DB4272A8D31AB00687728 /* viewthree.swift */,
 				BD6842FF2A8D0EF0004E8410 /* Assets.xcassets */,
 				BD6843012A8D0EF0004E8410 /* Preview Content */,
 			);
@@ -257,8 +287,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BD6843262A8D18C1004E8410 /* viewtwo.swift in Sources */,
+				BD6DB4282A8D31AB00687728 /* viewthree.swift in Sources */,
 				BD6842FE2A8D0EEF004E8410 /* ContentView.swift in Sources */,
+				BDF780B12A8E5F65006E8D06 /* reminders.swift in Sources */,
+				BD4ED5F42A8E57B5006DD8B2 /* viewfive.swift in Sources */,
+				BDF780AF2A8E5F3B006E8D06 /* colOpps.swift in Sources */,
+				BD4ED5F22A8E577A006DD8B2 /* view 5.swift in Sources */,
+				BDF780AD2A8E5EC8006E8D06 /* colwish.swift in Sources */,
 				BD6842FC2A8D0EEF004E8410 /* CollegeRoo_AppApp.swift in Sources */,
+				BD4ED5F62A8E5BCF006DD8B2 /* intwish.swift in Sources */,
+				BD4ED5F82A8E5DB6006DD8B2 /* intOpps.swift in Sources */,
+				BD6DB42A2A8D38BD00687728 /* viewfour.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
